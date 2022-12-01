@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Add me on LinkedIn https://www.linkedin.com/in/yannik-simon-498b50192/
 - 👷‍♂️ Working for https://meondi.com
-- 🎓 Studying at https://hdm-stuttgart.de
+- 🎓 Studying at https://www.hdm-stuttgart.de
 - 
 
 <!---
