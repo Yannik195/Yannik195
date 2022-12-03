@@ -4,11 +4,9 @@ Hi, I'm Yannik and I'm a 🎓 Student with a passion for 🚲 riding my bike, �
 
 I have 4 years of experience in the field and have worked on a wide range of projects, including 📱 Mobile Application Development, 🌐 Web Development in Backend and Frontend, and more. I am skilled in several Libraries and Frameworks, 🗃 Version Control, 🎨 Design and Usability, and 🧑 User Tests.
 
-I am currently studying at the [Hochschule der Medien](https://www.hdm-stuttgart.de) in Stuttgart, where I'm pursuing a [your program of study]. I also work as a [your job title] for [Meondi](https://meondi.com), where I'm responsible for [your responsibilities].
+I am currently studying at the [Hochschule der Medien](https://www.hdm-stuttgart.de) in Stuttgart, where I'm pursuing a Bachelor of Science in Mobile Media. I also work as a 💻 Developer for [Meondi](https://meondi.com), where I'm responsible for developing a time tracking tool.
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/[your-profile-url]). Thank you for visiting my profile. Let me know if you have any questions or would like to connect. 🙏
-
-
 
 ## Achievements
 
