@@ -8,13 +8,16 @@ In my spare time, I enjoy [your hobbies] and am always looking for new challenge
 
 ## My Favorite Technologies
 
-Here are some of my favorite technologies, along with an image of the logo, a description, and my skill level indicated with star emojis:
+Here are some of my favorite technologies, along with a brief description and my skill level indicated with star emojis:
 
+| Technology | Description | Skill Level |
+| --- | --- | --- |
 | ![React logo](logo-react.png) | **React**: A JavaScript library for building user interfaces | :star: :star: :star: :star: :star: |
 | ![Express logo](logo-express.png) | **Express**: A web application framework for Node.js | :star: :star: :star: :star: |
 | ![Mongoose logo](logo-mongoose.png) | **Mongoose**: An object modeling tool for MongoDB | :star: :star: :star: |
 
 I'm always looking to learn and experiment with new technologies, so this list is likely to change over time.
+
 
 ## My Repositories
 
