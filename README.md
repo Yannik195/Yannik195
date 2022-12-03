@@ -34,26 +34,8 @@ I'm always looking to learn and experiment with new technologies, so this list i
 
 Here are some of my recent repositories, including links to each repository and an emoji that represents the project:
 
-- :computer: [ueq-online-tool](https://github.com/Yannik195/ueq-online-tool): A web-based tool for creating and analyzing usability engineering questionnaires
+- :computer: [ueq-online-tool](https://github.com/Yannik195/ueq-online-tool): This project is a web-based tool for creating and analyzing usability engineering questionnaires. A usability engineering questionnaire is a survey that aims to evaluate the usability of a product. It typically includes a set of semantic differential items, which are pairs of opposite adjectives that a person can use to rate a product on a scale. For example, the questionnaire might include items such as "easy-difficult" or "useful-useless". This project was developed in a team this semester at the Media University.
 - :ticket: [einladung.app](https://github.com/Yannik195/einladung.app): An online ticket service that makes it easy to buy and sell event tickets. I built the service using React, Node.js, and MongoDB, as well as the following technologies: Stripe, Vue, Express, Axios, Mongoose, Mailchimp, JSONWebToken, Joi, Cors, and bcrypt.
 - :lotus_position: [headspace_reconstruct](https://github.com/Yannik195/headspace_reconstruct): I love design, and in this project, I rebuilt a part of a mobile app for the web. I made sure the project is responsive for the web, and used CSS Grid and Flexbox to achieve this.
 
 Feel free to check out my repositories and leave a star if you like what you see!
-
-
-
-
-
-- 👋 Hi, I’m @Yannik195
-- 👀 I’m interested in Sports, Food and Tech
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Add me on LinkedIn https://www.linkedin.com/in/yannik-simon-498b50192/
-- 👷‍♂️ Working for https://meondi.com
-- 🎓 Studying at https://www.hdm-stuttgart.de
-- 
-
-<!---
-Yannik195/Yannik195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
