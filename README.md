@@ -11,7 +11,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/[your-profile-
 ## Achievements
 
 - [ASAP BW finalist](https://asapbw.gruendermotor.io/) - the academic seed accelerator program at the [Media University Stuttgart](https://www.hdm-stuttgart.de/). ASAP BW is a 3-month program that helps startups develop their ideas and grow their businesses.
-- [Founder of einladung.app](https://einladung.app) - an online ticket service that makes it easy to buy and sell event tickets. The project is open-source and available on [GitHub](https://github.com/Yannik195/einladung.app). I built the service using the following technologies: Stripe, Vue, Express, Axios, Mongoose, Mailchimp, JSONWebToken, Joi, Cors, and bcrypt.
+- [Founder of einladung.app](https://einladung.app) - an online ticket service that makes it easy to buy and sell event tickets. The project is open-source and available on [GitHub](https://github.com/Yannik195/einladung.app). I built the service using the following technologies: Stripe, Vue, Express, Axios, Mongoose, Mailchimp, JSONWebToken, Joi, Cors, and bcrypt. You can simply make an account create an event for50 cent to test the whole userflow.
 
 I'm proud of the work I've done and am always looking for new opportunities to learn and grow. Thank you for visiting my profile. Let me know if you have any questions.
 
