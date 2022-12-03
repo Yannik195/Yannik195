@@ -1,10 +1,23 @@
 # About Me
 
-Hi, I'm [your name] and I'm a [your profession] with a passion for [your interests].
+Hi, I'm Yannik and I'm a 🎓 Student with a passion for 🚲 riding my bike, 💻 coding, and 🙋‍♂️ meeting friends and new people alike.
 
-I have [years of experience] in the field and have worked on a wide range of [your projects/experience].
+I have 4 years of experience in the field and have worked on a wide range of projects, including 📱 Mobile Application Development, 🌐 Web Development in Backend and Frontend, and more. I am skilled in several Libraries and Frameworks, 🗃 Version Control, 🎨 Design and Usability, and 🧑 User Tests.
 
-In my spare time, I enjoy [your hobbies] and am always looking for new challenges and opportunities to learn and grow.
+I am currently studying at the [Hochschule der Medien](https://www.hdm-stuttgart.de) in Stuttgart, where I'm pursuing a [your program of study]. I also work as a [your job title] for [Meondi](https://meondi.com), where I'm responsible for [your responsibilities].
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/[your-profile-url]). Thank you for visiting my profile. Let me know if you have any questions or would like to connect. 🙏
+
+
+
+## Achievements
+
+- [ASAP BW finalist](https://asapbw.gruendermotor.io/) - the academic seed accelerator program at the [Media University Stuttgart](https://www.hdm-stuttgart.de/). ASAP BW is a 3-month program that helps startups develop their ideas and grow their businesses.
+- [Founder of einladung.app](https://einladung.app) - an online ticket service that makes it easy to buy and sell event tickets. The project is open-source and available on [GitHub](https://github.com/Yannik195/einladung.app). I built the service using the following technologies: Stripe, Vue, Express, Axios, Mongoose, Mailchimp, JSONWebToken, Joi, Cors, and bcrypt.
+
+I'm proud of the work I've done and am always looking for new opportunities to learn and grow. Thank you for visiting my profile. Let me know if you have any questions.
+
+
 
 ## My Favorite Technologies
 
